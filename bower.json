@@ -1,0 +1,23 @@
+{
+  "name": "ios-elements",
+  "version": "0.0.1",
+  "description": "The ios-elements are a set of UI components designed to implement iOS design guidelines",
+  "authors": [
+    "Abdón Rodríguez Davila <thepeer@kingofapp.es>"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "ios"
+  ],
+  "main": "ios-elements.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KingofApp/ios-elements.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
