@@ -1,0 +1,27 @@
+{
+  "name": "ios-elements",
+  "version": "0.1.0",
+  "description": "The ios-elements are a set of UI components designed to implement iOS design guidelines",
+  "authors": [
+    "Abdón Rodríguez Davila <thepeer@kingofapp.es>"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "ios"
+  ],
+  "main": "ios-elements.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KingofApp/ios-elements.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ios-behaviors": "KingofApp/ios-behaviors#^0.1.0",
+    "ios-button": "KingofApp/ios-button#^0.3.0",
+    "ios-checkbox": "KingofApp/ios-checkbox#^0.1.0",
+    "ios-tabs": "KingofApp/ios-tabs#^0.1.0",
+    "ios-toggle-button": "KingofApp/ios-toggle-button#^0.2.0"
+  }
+}
