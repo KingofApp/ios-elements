@@ -21,6 +21,7 @@
     "ios-behaviors": "KingofApp/ios-behaviors#^0.1.0",
     "ios-button": "KingofApp/ios-button#^0.3.0",
     "ios-checkbox": "KingofApp/ios-checkbox#^0.1.0",
+    "ios-styles": "KingofApp/ios-styles#^0.1.0",
     "ios-tabs": "KingofApp/ios-tabs#^0.1.0",
     "ios-toggle-button": "KingofApp/ios-toggle-button#^0.2.0"
   }
