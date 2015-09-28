@@ -1,6 +1,6 @@
 {
   "name": "ios-elements",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The ios-elements are a set of UI components designed to implement iOS design guidelines",
   "authors": [
     "Abdón Rodríguez Davila <thepeer@kingofapp.es>"
@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "ios-behaviors": "KingofApp/ios-behaviors#^0.1.0",
-    "ios-button": "KingofApp/ios-button#^0.3.0",
+    "ios-button": "KingofApp/ios-button#^0.4.0",
     "ios-card": "KingofApp/ios-card#^0.1.0",
     "ios-checkbox": "KingofApp/ios-checkbox#^0.2.0",
     "ios-input": "KingofApp/ios-input#^0.1.0",
