@@ -26,6 +26,7 @@
     "ios-input": "KingofApp/ios-input#^0.1.0",
     "ios-styles": "KingofApp/ios-styles#^0.2.0",
     "ios-tabs": "KingofApp/ios-tabs#^0.1.0",
-    "ios-toggle-button": "KingofApp/ios-toggle-button#^0.3.0"
+    "ios-toggle-button": "KingofApp/ios-toggle-button#^0.3.0",
+    "ios-toolbar": "KingofApp/ios-toolbar#^0.1.0"
   }
 }
