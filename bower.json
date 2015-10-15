@@ -23,6 +23,7 @@
     "ios-card": "KingofApp/ios-card#^0.1.0",
     "ios-checkbox": "KingofApp/ios-checkbox#^0.2.0",
     "ios-drawer-panel": "KingofApp/ios-drawer-panel#^0.1.0",
+    "ios-header-panel": "KingofApp/ios-header-panel#^0.1.0",
     "ios-icon-button": "KingofApp/ios-icon-button#^0.1.0",
     "ios-input": "KingofApp/ios-input#^0.1.0",
     "ios-styles": "KingofApp/ios-styles#^0.2.0",
